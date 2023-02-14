@@ -1,0 +1,26 @@
+body{
+    background-color: gainsboro;
+
+    }
+    h1{
+       background-color: darkgrey;
+    }
+    p{
+        color: black;
+    }
+    img{
+        background-color: mediumblue;
+    }
+    .mushroom{
+        background-color: whitesmoke;
+    }
+    .Cactus{
+        background-color: ghostwhite;
+    }
+    .circular{
+        border-radius: 100%;
+    }
+
+    #heading{
+    color: black;
+    }
